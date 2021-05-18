@@ -55,5 +55,7 @@ if direction=="right":
     elif river_crossing=="swimover":
       print("Hurry!!!!, you have recovered the treasure")
   
-else:
+
+  
+else:   
   print('Oops, pirate get burnt')
