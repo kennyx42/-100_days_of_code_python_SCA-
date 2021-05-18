@@ -17,7 +17,7 @@ new_bill=Bill+tip_in_percent
 
 
 bill_per_person=(new_bill/num_of_friends)
-
+#
 #Format the result to 2 decimal places 
 
 rounded_bill_per_person=round(bill_per_person,2)
