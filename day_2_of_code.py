@@ -14,6 +14,8 @@ tip_in_percent=float(tip)/100
 
 new_bill=Bill+tip_in_percent
 
+
+
 bill_per_person=(new_bill/num_of_friends)
 
 #Format the result to 2 decimal places 
